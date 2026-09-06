@@ -1,0 +1,6 @@
+{
+  "name": "Community Connector",
+  "description": "Location-based civic issue reporting & community action platform. See a problem, report it, connect your community, get it solved.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

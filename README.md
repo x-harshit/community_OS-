@@ -2,6 +2,10 @@
 
 > A community-driven civic platform that connects residents, local communities, and authorities to report and track real-world issues.
 
+## 🌐 Live Demo
+
+ **Live Website:** https://ctrlaltdefeat.netlify.app/
+
 ##  Overview
 
 community_OS is a modern civic-tech platform designed to make local issue reporting simple, transparent, and accessible.
@@ -10,7 +14,7 @@ Residents can report problems such as garbage, damaged roads, streetlights, wate
 
 Reports can be viewed by the community and shared with the appropriate authorities for action.
 
-##  Key Features
+## ✨ Key Features
 
 -  Local issue reporting
 -  Photo evidence for reports
